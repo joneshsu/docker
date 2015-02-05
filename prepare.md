@@ -1,5 +1,5 @@
 ##安全軟體##
-----
+
 許多Docker入門教程會建議Windows或Mac用戶安裝[bootdocker](http://boot2docker.io/ "Title")。但基於以下理由，不採用這種方案:
 
   - boot2docker 會在你的電腦上安裝一台 [Tiny Core Linux](http://tinycorelinux.net/) 虛擬機，優點是輕薄短小，但缺點是，與實務常見的 Linux 生態嚴重脫節（實務上，哪些 server 會用 Tiny Core Linux？）。DevOps 觀念告訴我們，Dev 和 Ops 的環境愈接近，愈有利及早發現問題。
