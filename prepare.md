@@ -14,7 +14,7 @@
   
   - 反正都要學一點新的東西，與其學習 boot2docker 獨有指令，不如學習用途更廣的 Vagrant。 
 
-如果還不熟悉 Vagrant + VirtualBox 軟體組合，可以先閱讀以下不錯的<Vagrant Tutorial>系列文章。並請照著文中指示安裝軟體，並實際演練看看:
+如果還不熟悉 Vagrant + VirtualBox 軟體組合，可以先閱讀以下不錯的\<Vagrant Tutorial\>系列文章。並請照著文中指示安裝軟體，並實際演練看看:
 
   1. [雲端研發人員，你也需要虛擬機！](http://www.codedata.com.tw/social-coding/vagrant-tutorial-1-developer-and-vm) ← 觀念
   2. [跟著流浪漢把玩虛擬機](http://www.codedata.com.tw/social-coding/vagrant-tutorial-2-playing-vm-with-vagrant) ← ★★ 軟體安裝，**至少這篇要照著做過一遍！** ★★
